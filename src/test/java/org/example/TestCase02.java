@@ -9,7 +9,7 @@ public class TestCase02 {
     @Test
     public void gettitle()
     {
-        WebDriver driver=new EdgeDriver();
+        EdgeDriver driver=new EdgeDriver();
         driver.get("https://thetestingacademy.com");
         System.out.println(driver.getTitle());
     }
