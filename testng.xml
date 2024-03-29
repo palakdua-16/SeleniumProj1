@@ -3,12 +3,61 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/palak/IdeaProjects/SeleniumProject">
         <classes>
+            <class name="org.example.Selenium.Selenium10">
+                <methods>
+                    <include name="Test10"/>
+                </methods>
+            </class>
             <class name="org.example.Selenium.Selenium11">
                 <methods>
                     <include name="Test11"/>
                 </methods>
             </class>
-
+            <class name="org.example.Selenium.Selenium13">
+                <methods>
+                    <include name="Test13"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium2">
+                <methods>
+                    <include name="testMethod"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium4">
+                <methods>
+                    <include name="Test1"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium5">
+                <methods>
+                    <include name="Test1"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium6">
+                <methods>
+                    <include name="Test2"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium7">
+                <methods>
+                    <include name="Test1"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium8">
+                <methods>
+                    <include name="Test1"/>
+                </methods>
+            </class>
+            <class name="org.example.Selenium.Selenium9">
+                <methods>
+                    <include name="Test2"/>
+                </methods>
+            </class>
+            <class name="org.example.TestCase02">
+                <methods>
+                    <include name="gettitle"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
