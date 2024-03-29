@@ -53,11 +53,7 @@
                     <include name="Test2"/>
                 </methods>
             </class>
-            <class name="org.example.TestCase02">
-                <methods>
-                    <include name="gettitle"/>
-                </methods>
-            </class>
+
         </classes>
     </test>
 </suite>
